@@ -8,7 +8,7 @@ Veil is current under support by @ChrisTruncer
 
 ## Software Requirements:
 
-### linux
+### Linux
 
 1.  Debian or Kali - run the setup script - sudo ./setup.sh -c
 
